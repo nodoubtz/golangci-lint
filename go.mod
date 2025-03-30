@@ -3,7 +3,7 @@ module github.com/golangci/golangci-lint
 go 1.23.0
 
 require (
-	4d63.com/gocheckcompilerdirectives v1.2.1
+	4d63.com/gocheckcompilerdirectives v1.3.0
 	4d63.com/gochecknoglobals v0.2.2
 	github.com/4meepo/tagalign v1.4.2
 	github.com/Abirdcfly/dupword v0.1.3
@@ -14,7 +14,7 @@ require (
 	github.com/Crocmagnon/fatcontext v0.7.1
 	github.com/Djarvur/go-err113 v0.0.0-20210108212216-aea10b59be24
 	github.com/GaijinEntertainment/go-exhaustruct/v3 v3.3.1
-	github.com/OpenPeeDeeP/depguard/v2 v2.2.0
+	github.com/OpenPeeDeeP/depguard/v2 v2.2.1
 	github.com/alecthomas/go-check-sumtype v0.3.1
 	github.com/alexkohler/nakedret/v2 v2.0.5
 	github.com/alexkohler/prealloc v1.0.0
@@ -43,7 +43,7 @@ require (
 	github.com/go-viper/mapstructure/v2 v2.2.1
 	github.com/go-xmlfmt/xmlfmt v1.1.3
 	github.com/gofrs/flock v0.12.1
-	github.com/golangci/dupl v0.0.0-20180902072040-3e9179ac440a
+	github.com/golangci/dupl v0.0.0-20250308024227-f665c8d69b32
 	github.com/golangci/go-printf-func-name v0.1.0
 	github.com/golangci/gofmt v0.0.0-20250106114630-d62b90e6713d
 	github.com/golangci/misspell v0.6.0
@@ -93,8 +93,8 @@ require (
 	github.com/santhosh-tekuri/jsonschema/v6 v6.0.1
 	github.com/sashamelentyev/interfacebloat v1.1.0
 	github.com/sashamelentyev/usestdlibvars v1.28.0
-	github.com/securego/gosec/v2 v2.22.1
-	github.com/shirou/gopsutil/v4 v4.25.1
+	github.com/securego/gosec/v2 v2.22.2
+	github.com/shirou/gopsutil/v4 v4.25.2
 	github.com/sirupsen/logrus v1.9.3
 	github.com/sivchari/containedctx v1.0.3
 	github.com/sivchari/tenv v1.12.1
@@ -125,11 +125,11 @@ require (
 	go-simpler.org/musttag v0.13.0
 	go-simpler.org/sloglint v0.9.0
 	go.uber.org/automaxprocs v1.6.0
-	golang.org/x/mod v0.23.0
-	golang.org/x/sys v0.30.0
-	golang.org/x/tools v0.30.0
+	golang.org/x/mod v0.24.0
+	golang.org/x/sys v0.31.0
+	golang.org/x/tools v0.31.0
 	gopkg.in/yaml.v3 v3.0.1
-	honnef.co/go/tools v0.6.0
+	honnef.co/go/tools v0.6.1
 	mvdan.cc/gofumpt v0.7.0
 	mvdan.cc/unparam v0.0.0-20240528143540-8a5130ca722f
 )
@@ -155,7 +155,7 @@ require (
 	github.com/go-toolsmith/typep v1.1.0 // indirect
 	github.com/gobwas/glob v0.2.3 // indirect
 	github.com/golang/protobuf v1.5.3 // indirect
-	github.com/google/go-cmp v0.6.0 // indirect
+	github.com/google/go-cmp v0.7.0 // indirect
 	github.com/gostaticanalysis/analysisutil v0.7.1 // indirect
 	github.com/gostaticanalysis/comment v1.5.0 // indirect
 	github.com/hashicorp/go-immutable-radix/v2 v2.1.0 // indirect
@@ -196,9 +196,9 @@ require (
 	go.uber.org/zap v1.24.0 // indirect
 	golang.org/x/exp v0.0.0-20240909161429-701f63a606c0 // indirect
 	golang.org/x/exp/typeparams v0.0.0-20250210185358-939b2ce775ac // indirect
-	golang.org/x/sync v0.11.0 // indirect
+	golang.org/x/sync v0.12.0 // indirect
 	golang.org/x/text v0.22.0 // indirect
-	google.golang.org/protobuf v1.36.4 // indirect
+	google.golang.org/protobuf v1.36.5 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 )
